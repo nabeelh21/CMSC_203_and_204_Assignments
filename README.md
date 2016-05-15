@@ -1,2 +1,3 @@
-# CMSC_203_and_204_Assignments
-My Class Assignment Projects
+# CMSC_204_Assignments
+
+My Class Assignments and Labs for Intermediate Java Programming: Data Structures
